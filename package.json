@@ -1,7 +1,7 @@
 {
   "author": "Connor Rack",
   "name": "hang-man",
-  "homepage": "https://Racksoup.github.io/Hang-Man/",
+  "homepage": "https://Racksoup.github.io/hangman/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
