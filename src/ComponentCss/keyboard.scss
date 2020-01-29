@@ -1,0 +1,29 @@
+.keyboard {
+  grid-column-start: 1;
+  grid-column-end: 2;
+  grid-row-start: 3;
+  grid-row-end: 4;
+  background: rgb(245, 98, 189);
+  display: grid;
+  grid-template-rows: 1fr 1fr;
+  grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr;
+}
+
+.a {
+  margin: auto;
+  background: rgb(45, 6, 68);
+  color: rgb(253, 158, 217);
+  border-radius: 4px;
+  height: 25px;
+  width: 25px;
+  border: none;
+}
+
+.b {
+  margin: auto;
+  border-radius: 4px;
+  height: 25px;
+  width: 25px;
+  border: none;
+  visibility: hidden;
+}
